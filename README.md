@@ -1,5 +1,5 @@
 # teste-de-AI
-essa foi uma tentativa de criação de uma ai  onde ela vai  aprendendo com a pessoa que vai utilizando e se aprimorando com o tempo sozinha.
+essa foi uma tentativa de criação de uma ai  onde ela vai  aprendendo com a pessoa que vai utilizando e se aprimorando com o tempo sozinha. Ainda vou melhorar mais ainda foi so um teste 
 
 
 
